@@ -1,0 +1,6 @@
+---
+- hosts: server
+  remote_user: root
+#  connection: local
+  roles:
+    - helloworld
