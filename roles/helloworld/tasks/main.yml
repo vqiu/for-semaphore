@@ -4,3 +4,6 @@
   debug:
     msg: "Task one"
 
+- name: Task 2
+  debug:
+    msg: "Task two"
